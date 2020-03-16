@@ -36,7 +36,7 @@ _Before everything, install these things on your system
 
 Step 2. Running The code
 ---------------------------------
-1. Open the Jupyter Lab (in the same Directory the the code.ipynb is trored)
+1. Open the Jupyter Lab (in the same Directory the the code.ipynb is stored)
 ```
 jupyter notebook
 ```
